@@ -18,4 +18,4 @@ Score/progress system
 Technologies
 Java 
 Git
-Unity (jika Unity)
+Unity
